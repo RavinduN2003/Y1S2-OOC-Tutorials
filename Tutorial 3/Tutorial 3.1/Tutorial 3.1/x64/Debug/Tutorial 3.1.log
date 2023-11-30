@@ -1,0 +1,7 @@
+﻿  Tutorial 3.1.cpp
+C:\Users\Ravindu Nethmina\Desktop\Exercises\C++\Tutorials\Tutorial 3\Tutorial 3.1\Tutorial 3.1\Tutorial 3.1.cpp(9,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Ravindu Nethmina\Desktop\Exercises\C++\Tutorials\Tutorial 3\Tutorial 3.1\Tutorial 3.1\Tutorial 3.1.cpp(9,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Ravindu Nethmina\Desktop\Exercises\C++\Tutorials\Tutorial 3\Tutorial 3.1\Tutorial 3.1\Tutorial 3.1.cpp(9,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Ravindu Nethmina\Desktop\Exercises\C++\Tutorials\Tutorial 3\Tutorial 3.1\Tutorial 3.1\Tutorial 3.1.cpp(9,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Ravindu Nethmina\Desktop\Exercises\C++\Tutorials\Tutorial 3\Tutorial 3.1\Tutorial 3.1\Tutorial 3.1.cpp(9,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Tutorial 3.1.vcxproj -> C:\Users\Ravindu Nethmina\Desktop\Exercises\C++\Tutorials\Tutorial 3\Tutorial 3.1\x64\Debug\Tutorial 3.1.exe
